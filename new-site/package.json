@@ -13,9 +13,5 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
-  },
-  "dependencies": {
-    "bootstrap": "^5.0.2",
-    "firebase": "^8.8.0"
   }
 }
